@@ -9,6 +9,8 @@ coverage/
 
 #Ignore .idea files
 /.idea
+.idea
+*.idea
 
 # Ignore all logfiles and tempfiles.
 /log/*.log
@@ -21,6 +23,7 @@ doc/
 *#
 .project
 .DS_Store
+.lwjgl-3
 
 # Compiled source
 *.com
